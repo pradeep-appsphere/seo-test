@@ -18,7 +18,7 @@ function Blog() {
               All are blogs.
             </p>
           </div>
-          <div class="lg:flex items-stretch md:mt-12 mt-8">
+          {/* <div class="lg:flex items-stretch md:mt-12 mt-8">
             <div class="lg:w-1/2">
               <div class="sm:flex items-center justify-between xl:gap-x-8 gap-x-6">
                 <div class="sm:w-1/2 relative">
@@ -301,7 +301,7 @@ function Blog() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>

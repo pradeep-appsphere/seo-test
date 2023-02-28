@@ -18,7 +18,7 @@ function Contact() {
                 Contact us for <br /> more info
               </h1>
 
-              <div class="mt-6 space-y-8 md:mt-8">
+              {/* <div class="mt-6 space-y-8 md:mt-8">
                 <p class="flex items-start -mx-2">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -165,10 +165,10 @@ function Contact() {
                     </svg>
                   </a>
                 </div>
-              </div>
+              </div> */}
             </div>
 
-            <div class="mt-8 lg:w-1/2 lg:mx-6">
+            {/* <div class="mt-8 lg:w-1/2 lg:mx-6">
               <div class="w-full px-8 py-10 mx-auto overflow-hidden bg-white rounded-lg shadow-2xl dark:bg-gray-900 lg:max-w-xl shadow-gray-300/50 dark:shadow-black/50">
                 <h1 class="text-lg font-medium text-gray-700">
                   What do you want to ask
@@ -212,7 +212,7 @@ function Contact() {
                   </button>
                 </form>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

@@ -10,44 +10,44 @@ function Navbar() {
         <ul class="md:px-2 ml-auto md:flex md:space-x-2 absolute md:relative top-full left-0 right-0">
             <NavLink to={"/"}>
             <li>
-                <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50">
+                {/* <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50"> */}
                     <span>Home</span>
-                </a>
+                {/* </a> */}
             </li>
             </NavLink>
             <NavLink to={"/team"}>
             <li>
-                <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50">
+                {/* <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50"> */}
                     <span>Team</span>
-                </a>
+                {/* </a> */}
             </li>
             </NavLink>
             <NavLink to={"/blog"}>
             <li>
-                <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50">
+                {/* <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50"> */}
                     <span>Blog</span>
-                </a>
+                {/* </a> */}
             </li>
             </NavLink>
             <NavLink to={"/about"}>
             <li>
-                <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50">
+                {/* <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50"> */}
                     <span>About</span>
-                </a>
+                {/* </a> */}
             </li>
             </NavLink>
             <NavLink to={"/services"}>
             <li>
-                <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50">
+                {/* <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50"> */}
                     <span>Services</span>
-                </a>
+                {/* </a> */}
             </li>
             </NavLink>
             <NavLink to={"/contact"}>
             <li>
-                <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50">
+                {/* <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50"> */}
                     <span>Contact US</span>
-                </a>
+                {/* </a> */}
             </li>
             </NavLink>
         </ul>

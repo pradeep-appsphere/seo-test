@@ -26,7 +26,7 @@ function About() {
             </p>
           </div>
           <div class="flex items-center">
-            <a
+            {/* <a
               href="/"
               class="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-black transition duration-200 rounded shadow-md bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
             >
@@ -38,7 +38,7 @@ function About() {
               class="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
             >
               Learn more
-            </a>
+            </a> */}
           </div>
         </div>
         <div>
