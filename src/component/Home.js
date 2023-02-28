@@ -32,7 +32,7 @@ function Home() {
                             <div class="w-3 h-3 border-2 border-white rounded-full"></div>
                         </div>
                     </div>
-                    <img src="https://cdn.devdojo.com/images/march2021/green-dashboard.jpg" />
+                    {/* <img src="https://cdn.devdojo.com/images/march2021/green-dashboard.jpg" /> */}
                 </div>
             </div>
         </div>
