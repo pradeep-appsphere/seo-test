@@ -1,0 +1,6 @@
+https://main--snazzy-boba-e44f9a.netlify.app/
+https://main--snazzy-boba-e44f9a.netlify.app/team
+https://main--snazzy-boba-e44f9a.netlify.app/blog
+https://main--snazzy-boba-e44f9a.netlify.app/about
+https://main--snazzy-boba-e44f9a.netlify.app/services
+https://main--snazzy-boba-e44f9a.netlify.app/contact
